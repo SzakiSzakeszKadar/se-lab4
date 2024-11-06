@@ -1,0 +1,3 @@
+# input-4.txt - Sikertelen tüzelés (100% hibaráta az elsődleges tárnál)
+GT4500,2,1.0,2,0
+TORPEDO,SINGLE
