@@ -1,0 +1,3 @@
+# input-8.txt - ALL mód részleges siker (egyik tár hibas)
+GT4500,2,1.0,2,0
+TORPEDO,ALL
